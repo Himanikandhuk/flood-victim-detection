@@ -85,21 +85,21 @@ We used the Twilio API to send real-time alerts to rescue teams. When a STRANDED
 
 ## 📚 References
 
-Ultralytics YOLOv8
-LabelImg - Dataset Annotation Tool
-Rasterio - Geospatial Image Processing
-GeeksforGeeks - Image Processing Concepts
-Roboflow - Dataset Management
-Twilio - SMS API
+- Ultralytics YOLOv8
+- LabelImg - Dataset Annotation Tool
+- Rasterio - Geospatial Image Processing
+- GeeksforGeeks - Image Processing Concepts
+- Roboflow - Dataset Management
+- Twilio - SMS API
 
 ## 🙋‍♀️ Contributors
 
-Supraja Sandhya Thota
-Himani Kandhukoori 
-Afrah Anaan
-Ayesha Fatima
+- Himani Kandhukoori 
+- Supraja Sandhya Thota 
+- Afrah Anaan
+- Ayesha Fatima
 
-Guided by: Dr. O. B. V. Ramanaiah
+- Guided by: Dr. O. B. V. Ramanaiah
            Senior Professor 
            JNTUH 
 
