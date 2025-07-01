@@ -99,8 +99,8 @@ We used the Twilio API to send real-time alerts to rescue teams. When a STRANDED
 - Afrah Anaan
 - Ayesha Fatima
 
-- Guided by: Dr. O. B. V. Ramanaiah
-           Senior Professor 
+- Guided by: Dr. O. B. V. Ramanaiah ,
+           Senior Professor ,
            JNTUH 
 
 
