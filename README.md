@@ -18,7 +18,6 @@ Floods often leave victims stranded in inaccessible regions. Our system aims to:
 - ✅ Safe/Stranded human classification based on spatial relationships
 - ✅ Real-time SMS notification system using Twilio (or similar)
 
----
 
 ## 🧠 Model Training
 
@@ -32,7 +31,6 @@ We experimented with `nano`, `medium`, and `large` variants. Due to better gener
 - Framework: PyTorch, Ultralytics  
 - Hardware: Tesla T4 GPU
 
----
 
 ## 🗂️ File Structure
 ```bash
@@ -55,7 +53,6 @@ project/
 └── requirements.txt
 ```
 
----
 
 ## ▶️ Sample Output
 
@@ -65,32 +62,28 @@ Humans detected and labeled as `SAFE` (green) or `STRANDED` (red) based on conte
 **Geo Coordinates:**  
 Extracted from the `.tif` file and mapped to latitude/longitude for rescue deployment.
 
----
 
-##🚀 Run the Program
+## 🚀 Run the Program
 
 ```bash
 pip install -r requirements.txt
 py detect_and_classify.py
 ```
 
----
 
-##📍 Coordinate Extraction (GeoTIFF)
+## 📍 Coordinate Extraction (GeoTIFF)
 
 Each .tif image contains geospatial metadata. Using rasterio, pixel coordinates of detected bounding boxes are mapped to real-world latitude/longitude, enabling GPS tracking of victims.
 
----
 
-##🔔 SMS Alert Integration
+## 🔔 SMS Alert Integration
 
 We used the Twilio API to send real-time alerts to rescue teams. When a STRANDED human is detected, the system sends a message like:
 
 ``` 🚨 Stranded person detected at: 17.3850°N, 78.4867°E``` 
 
----
 
-##📚 References
+## 📚 References
 
 Ultralytics YOLOv8
 LabelImg - Dataset Annotation Tool
@@ -99,7 +92,7 @@ GeeksforGeeks - Image Processing Concepts
 Roboflow - Dataset Management
 Twilio - SMS API
 
-##🙋‍♀️ Contributors
+## 🙋‍♀️ Contributors
 
 Supraja Sandhya Thota
 Himani Kandhukoori 
