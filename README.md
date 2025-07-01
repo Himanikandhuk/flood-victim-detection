@@ -67,7 +67,7 @@ load the fine-tuned model and set the image path in the ```overall_script.py``` 
 
 ```bash
 pip install -r requirements.txt
-py detect_and_classify.py
+py overall_script.py
 ```
 
 
