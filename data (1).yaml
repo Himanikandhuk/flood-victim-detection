@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Humans', 'Boat', 'Life_Jacket', 'On_Land', 'Deep_Water', 'Holding_Objects']
