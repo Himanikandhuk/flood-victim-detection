@@ -56,11 +56,22 @@ project/
 
 ## ▶️ Sample Output
 
+**YOLO detection Results:**  
+Objects detection for classes `Human`, `Boat`, `Life_Jacket`, `On_Land`, `Deep_Water`, `Holding_Objects`
+
+![image](https://github.com/user-attachments/assets/a5f29ab9-81c0-4e09-a1cd-397761874a6c)
+
+
 **Classification Results:**  
 Humans detected and labeled as `SAFE` (green) or `STRANDED` (red) based on contextual objects.
 
+![image](https://github.com/user-attachments/assets/f4df4a33-32d7-41a4-bdaf-e51a4942c8fa)
+
+
 **Geo Coordinates:**  
 Extracted from the `.tif` file and mapped to latitude/longitude for rescue deployment.
+
+![image](https://github.com/user-attachments/assets/fb9c9e8c-7b41-425f-8cc6-602398ed5668)
 
 
 ## 🚀 Run the Program
