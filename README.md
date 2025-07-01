@@ -103,15 +103,10 @@ We used the Twilio API to send real-time alerts to rescue teams. When a STRANDED
 - Roboflow - Dataset Management
 - Twilio - SMS API
 
-## 🙋‍♀️ Contributors
+## 📌 Under the Guidance of 
 
-- Himani Kandhukoori 
-- Supraja Sandhya Thota 
-- Afrah Anaan
-- Ayesha Fatima
-
-- Guided by: Dr. O. B. V. Ramanaiah ,
-           Senior Professor ,
-           JNTUH 
+- Dr. O. B. V. Ramanaiah
+- Senior Professor
+- JNTUH 
 
 
